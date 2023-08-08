@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+body {
+    font-family: 'Edu SA Beginner', cursive;
+    font-family: 'Tektur', cursive;
+}
+p{
+    text-align: center;
+}
+#shape {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: relative;
+    border-radius: 50%;
+    border-style: solid;
+}
+hr{
+    height: 10px;
+    background-color: gray;
+}
+#Time{
+    border: none;
+    font-weight: bold;
+    font-size: large;
+}
+#timer{
+    margin-left: 150px;
+}
